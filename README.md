@@ -1,5 +1,9 @@
 # LocalText2SQL
+## Demo and write-ups
 
+- 🎥 **Video demo:** [Watch LocalText2SQL in action](https://drive.google.com/file/d/1PeYV2bulWuWNT7HEXPuQuDvRsClz6V4t/view?usp=sharing)
+- 📝 **Medium:** [A Fully Local, Private Text2SQL Agent (Because Nobody Needs to Know Your Business But You)](https://medium.com/@vattikuti.2004/a-fully-local-private-text2sql-agent-because-nobody-needs-to-know-your-business-but-you-dfff6e9f0188)
+- 💼 **LinkedIn:** [I Asked AI to Write SQL and Gave It Memory](https://www.linkedin.com/pulse/i-asked-ai-write-sql-gave-memory-harshitha-jyesta-xt9cf/)
 A **fully local Text-to-SQL assistant for developers and data teams.** Point it at your own
 PostgreSQL, MySQL or SQL Server database, ask questions in plain English, and get back the generated
 SQL and its results. No cloud service is involved at any point.
