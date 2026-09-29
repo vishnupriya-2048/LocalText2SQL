@@ -1,0 +1,7 @@
+[server]
+# The app handles database credentials: only accept connections from this machine.
+address = "localhost"
+headless = true
+
+[browser]
+gatherUsageStats = false
